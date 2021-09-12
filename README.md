@@ -6,7 +6,7 @@ Projeto feito em Python. Uma calculadora simples com Interface Gráfica (GUI), n
 
 ### Algumas Imagens Abaixo
 
-<img align="center" src="screenshot/print.png">
+<img align="center" src="screenshot/print1.png">
 
 <p align="center"><b>Calculadora sem Cálculos</b></p>
 
