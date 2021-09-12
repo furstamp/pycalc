@@ -14,10 +14,10 @@ Projeto feito em Python. Uma calculadora simples com Interface Gráfica (GUI), n
 
 <img align="center" src="screenshot/print2.png">
 
-<p align="center"><b></b></p>
+<p align="center"><b>Dando Input do Cálculo Desejado</b></p>
 
 
 
 <img align="center" src="screenshot/print3.png">
 
-<p align="center"><b></b></p>
+<p align="center"><b>Resultado do Cálculo</b></p>
