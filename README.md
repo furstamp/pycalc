@@ -12,12 +12,12 @@ Projeto feito em Python. Uma calculadora simples com Interface Gráfica (GUI), n
 
 
 
-<img align="center" alt="in-one-weekend cover image" src="screenshot/print2.png">
+<img align="center" src="screenshot/print2.png">
 
 <p align="center"><b></b></p>
 
 
 
-<img align="center" alt="in-one-weekend cover image" src="screenshot/print3.png">
+<img align="center" src="screenshot/print3.png">
 
 <p align="center"><b></b></p>
